@@ -1,2 +1,2 @@
 sh:smug:1:...
-sh:smug:1:Increíble!
+sh:smug:1:Amazing!

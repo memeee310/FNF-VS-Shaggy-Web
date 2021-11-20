@@ -1,16 +1,16 @@
-zsh:laugh:1:JEJAJAJAJA
-zsh:normal:1:GRACIAS BEE!!
-zsh:scream:1:Finalmente puedo SENTIR.
-zsh:normal:1:Extrañaba tanto a la realidad...
-zsh:laugh:1:Estoy MUY EMOCIONADO
-zsh:scream:1:Puedo empezar a TRABAJAR OTRA VEZ!!
-zsh:crazy:1:Puedo CONQUISTAR ALGUNOS UNIVERSOS!!!
+zsh:laugh:1:HEHAHAHA
+zsh:normal:1:THANK YOU BEE!!
+zsh:scream:1:I can finally FEEL.
+zsh:normal:1:I missed reality so much...
+zsh:laugh:1:I'm just SO EXCITED
+zsh:scream:1:Now I can start WORKING AGAIN!!
+zsh:crazy:1:I can CONQUER SOME UNIVERSES!!!
 zsh:normal:1:...
-zsh:normal:1:No con este universo por supuesto,#No me gustaría dejarte sin#un hogar!
-zsh:laugh:1:Eso me recuerda, tenemos unas batallas#pendientes.
-zsh:scream:1:3000 batallas de rap!! Eso es lo que prometí!!
-zsh:normal:1:Pero tengo que hacer muchas cosas aparte#de quedarme aquí...
-zsh:crazy:1:Solo tengo 3 minutos, si me quedo aquí#por mucho rato ALGUIEN podría atraparme...
-zsh:normal:1:Ya sé - Cada 10 años terrestres#voy a venir a pelear contigo.#Una batalla de rap a la vez.
-zsh:laugh:1:Espero que no mueras para ese#entonces JAJAJAJA.
-zsh:scream:1:Muy bien, aquí vamos!! A BATALLAR!!!!
+zsh:normal:1:Not with this universe of course,#I wouldn't wanna leave you#without a home!
+zsh:laugh:1:That also reminds me, we have#some battlin' to do
+zsh:scream:1:3000 rap battles!! That's what I promised!!
+zsh:normal:1:But I have so many things to do apart from#staying here, y'know...
+zsh:crazy:1:I only have 3 earth minutes, if I stay here#too long SOMEONE might catch me...
+zsh:normal:1:I'll tell you what - Every 10 earth years#Imma come fight you.#One rap battle at a time.
+zsh:laugh:1:Hope you don't die before then HAHAHA.
+zsh:scream:1:Alright, here we go!! Let's BATTLE!!!!
